@@ -13,6 +13,14 @@ except ImportError:
 import logging
 
 
+#######################################################
+#
+# Copyright (c) 2016 Organ Alliance, Inc.
+# Distributed under the terms of the MIT License.
+#
+#######################################################
+
+
 logger = logging.getLogger(__name__)
 
 
